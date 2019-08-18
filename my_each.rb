@@ -4,4 +4,5 @@ def my_each(argument) # put argument(s) here
     print i
     i += 1 
   end
+  return argument
 end
