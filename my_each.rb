@@ -7,4 +7,4 @@ def my_each(argument) # put argument(s) here
   return argument
 end
 
-{ print i }
+my_each { [1, 2, 3, 4] }
